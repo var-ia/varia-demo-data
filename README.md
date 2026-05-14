@@ -1,6 +1,6 @@
 # varia-demo-data
 
-Safe, publicly-sourced demo datasets for [Varia](https://github.com/anomalyco/varia), the deterministic observation engine.
+Safe, publicly-sourced demo datasets for [Varia](https://github.com/var-ia/var-ia), the deterministic observation engine.
 
 ## What's here
 
