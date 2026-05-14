@@ -16,6 +16,8 @@ Safe, publicly-sourced demo datasets for [Varia](https://github.com/var-ia/var-i
 - **No living-person pages** as primary demos. All Fandom/Wikipedia content is from fictional universes or historical/technology topics.
 - **All content** is either from public wikis or synthetically generated. Nothing proprietary.
 
-## Usage
-
 These datasets feed Varia's eval harness (`packages/eval/`). Point an eval config at `file://` paths in this repo to run deterministic analysis without hitting live APIs.
+
+---
+
+Built and maintained by [NextConsensus](https://nextconsensus.com).
