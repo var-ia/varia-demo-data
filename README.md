@@ -8,7 +8,7 @@ Safe, publicly-sourced demo datasets for [Varia](https://github.com/var-ia/var-i
 |---|---|---|
 | `fandom/` | Fandom wikis (Star Wars, Marvel, Minecraft) | Canon disputes, retcons, version-driven changes in rich revision histories |
 | `historical-wikipedia/` | Wikipedia public event/tech/policy pages | Citation churn, neutrality disputes, event-driven editing |
-| `synthetic-healthcare-like/` | Entirely fictional medical-style pages | Claim softening/strengthening, citation replacement, dispute resolution — with no real patient or drug data |
+| `synthetic-healthcare-like/` | Entirely fictional medical-style pages | Claim lifecycle, citation replacement, dispute resolution — with no real patient or drug data |
 
 ## Rules
 
