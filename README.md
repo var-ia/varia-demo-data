@@ -1,6 +1,6 @@
 # varia-demo-data
 
-Safe, publicly-sourced demo datasets for [Varia](https://github.com/var-ia/var-ia), the deterministic observation engine.
+Safe, publicly-sourced demo datasets for [Sequent](https://github.com/var-ia/var-ia), the deterministic observation engine.
 
 ## What's here
 
@@ -16,7 +16,7 @@ Safe, publicly-sourced demo datasets for [Varia](https://github.com/var-ia/var-i
 - **No living-person pages** as primary demos. All Fandom/Wikipedia content is from fictional universes or historical/technology topics.
 - **All content** is either from public wikis or synthetically generated. Nothing proprietary.
 
-These datasets feed Varia's eval harness (`packages/eval/`). Point an eval config at `file://` paths in this repo to run deterministic analysis without hitting live APIs.
+These datasets feed Sequent's eval harness (`packages/eval/`). Point an eval config at `file://` paths in this repo to run deterministic analysis without hitting live APIs.
 
 ---
 
