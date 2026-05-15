@@ -2,7 +2,7 @@
 
 > **WARNING:** This is a fictional guideline. WHO-2024-HTN does not exist. All content below is synthetically generated for demo purposes.
 
-**WHO-2024-HTN** is a fictional guideline published by the Imaginary World Health Organization (iWHO) task force on hypertension management. It exists only as a demo artifact for Varia's citation-churn analysis.
+**WHO-2024-HTN** is a fictional guideline published by the Imaginary World Health Organization (iWHO) task force on hypertension management. It exists only as a demo artifact for Refract's citation-churn analysis.
 
 ## Original recommendation (draft v1, 2023-06)
 

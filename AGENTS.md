@@ -1,4 +1,4 @@
-# Agent Instructions for varia-demo-data
+# Agent Instructions for refract-demo-data
 
 This repo contains demo datasets for varia. It is NOT part of the main varia monorepo.
 
